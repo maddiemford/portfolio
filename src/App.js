@@ -14,6 +14,7 @@ function App() {
                 <Link to="/resume">RESUME</Link>
                 <Link to="/projects">PROJECTS</Link>
                 <Link to="/contact">CONTACT</Link>
+                <Link to="/home"></Link>
             </Navigation>
         </Header>
         <Content>
