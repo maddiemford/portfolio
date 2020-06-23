@@ -1,22 +1,29 @@
 import React from 'react';
 import './App.css';
-import { Layout, Header, Navigation, Content } from 'react-mdl';
+import { Layout, Content } from 'react-mdl';
 import Main from "./components/Main";
-import { Link } from 'react-router-dom';
 
 function App() {
   return (
     <div className="demo-big-content">
     <Layout>
-        <Header className="header-color" title="Maddie Ford" scroll>
-            <Navigation>
-                <Link to="/about">ABOUT ME</Link>
-                <Link to="/resume">RESUME</Link>
-                <Link to="/projects">PROJECTS</Link>
-                <Link to="/contact">CONTACT</Link>
-            </Navigation>
-        </Header>
-        <Content>
+        <nav class="navbar">
+          <div class="title">MADDIE FORD</div>
+          <a href="#" class="toggle-button">
+            <span class="bar"></span>
+            <span class="bar"></span>
+            <span class="bar"></span>
+          </a>
+          <div class="navbar-links">
+            <ul>
+                <li><a href="/portfolio/about">ABOUT ME</a></li>
+                <li><a href="/portfolio/resume">RESUME</a></li>
+                <li><a href="/portfolio/projects">PROJECTS</a></li>
+                <li><a href="/portfolio/contact">CONTACT</a></li>
+            </ul>
+          </div>
+        </nav>
+        <Content className="content">
             <div className="page-content" />
             <Main/>
         </Content>

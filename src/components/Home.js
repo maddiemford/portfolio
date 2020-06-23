@@ -12,8 +12,8 @@ class Home extends Component {
                             src={Doodle}
                             alt="doodle"
                             className="doodle-img"
-                        />
-                       <div className="banner-text">
+                        />  
+                        <div className="banner-text">
                             <h3><span>HELLO</span></h3>
                             <h1>I AM MADDIE FORD</h1>
                             <h2>COMPUTER ENGINEERING STUDENT</h2>
