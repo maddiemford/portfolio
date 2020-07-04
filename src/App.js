@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 import { Layout, Content, Navigation } from 'react-mdl';
 import Main from "./components/Main";
-import { Link } from 'react-router-dom'
+import { Link } from 'react-router-dom';
 
 function App() {
   return (
