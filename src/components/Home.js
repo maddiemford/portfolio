@@ -15,7 +15,7 @@ class Home extends Component {
                         />  
                         <div className="banner-text">
                             <h3><span>HELLO</span></h3>
-                            <h1>I AM MADDIE FORD</h1>
+                            <div class="container"> <h1>I AM MADDIE FORD</h1> </div>
                             <h2>COMPUTER ENGINEERING STUDENT</h2>
                             <h4>she/her</h4>
                             <div className="social-links">

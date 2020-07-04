@@ -1,7 +1,8 @@
 import React from 'react';
 import './App.css';
-import { Layout, Content } from 'react-mdl';
+import { Layout, Content, Navigation } from 'react-mdl';
 import Main from "./components/Main";
+import { Link } from 'react-router-dom'
 
 function App() {
   return (
@@ -16,16 +17,18 @@ function App() {
           </a>
           <div class="navbar-links">
             <ul>
-                <li><a href="/portfolio/about">ABOUT ME</a></li>
-                <li><a href="/portfolio/resume">RESUME</a></li>
-                <li><a href="/portfolio/projects">PROJECTS</a></li>
-                <li><a href="/portfolio/contact">CONTACT</a></li>
+              <Navigation>
+                <li><Link to="/portfolio/about">ABOUT</Link></li>
+                <li><Link to="/portfolio/resume">RESUME</Link></li>
+                <li><Link to="/portfolio/projects">PROJECTS</Link></li>
+                <li><Link to="/portfolio/contact">CONTACT</Link></li>
+              </Navigation>
             </ul>
           </div>
         </nav>
         <Content className="content">
-            <div className="page-content" />
-            <Main/>
+          <div className="page-content" />
+          <Main/>
         </Content>
     </Layout>
     </div>

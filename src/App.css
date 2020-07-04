@@ -7,7 +7,7 @@
 }
 
 .content {
-    background: rgb(45,45,45);
+    background: rgb(207,178,213);
 }
 
 .title {
@@ -92,13 +92,13 @@
 }
 
 .page-content {
-    background:rgb(45,45,45); 
+    background:rgb(207,178,213); 
     margin: 0;
 }
 
 .home-page {
     background: rgb(45,45,45);
-    background-image: url("./background.png");
+    background-image: url("./background2.png");
     position: absolute;
     width: 100%;
     height: auto;
@@ -122,7 +122,6 @@
 
 
 .banner-text {
-    font-family: 'Rubik';
     text-align: left;
     width: 40%;
     height: auto;
