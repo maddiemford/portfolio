@@ -1,27 +1,31 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.701855cb.chunk.css",
-    "main.js": "/portfolio/static/js/main.d092a4ee.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.d092a4ee.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.f6ac9d24.chunk.css",
+    "main.js": "/portfolio/static/js/main.63f7b7e0.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.63f7b7e0.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.879528c7.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.879528c7.js.map",
     "static/css/2.e4346227.chunk.css": "/portfolio/static/css/2.e4346227.chunk.css",
-    "static/js/2.ec5907d5.chunk.js": "/portfolio/static/js/2.ec5907d5.chunk.js",
-    "static/js/2.ec5907d5.chunk.js.map": "/portfolio/static/js/2.ec5907d5.chunk.js.map",
+    "static/js/2.d7ccea13.chunk.js": "/portfolio/static/js/2.d7ccea13.chunk.js",
+    "static/js/2.d7ccea13.chunk.js.map": "/portfolio/static/js/2.d7ccea13.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.f637e6b99b7a2d9fcdb62163f5acdfd2.js": "/portfolio/precache-manifest.f637e6b99b7a2d9fcdb62163f5acdfd2.js",
+    "precache-manifest.d3996d1aef90c44c59303e8c46873135.js": "/portfolio/precache-manifest.d3996d1aef90c44c59303e8c46873135.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/2.e4346227.chunk.css.map": "/portfolio/static/css/2.e4346227.chunk.css.map",
-    "static/css/main.701855cb.chunk.css.map": "/portfolio/static/css/main.701855cb.chunk.css.map",
-    "static/js/2.ec5907d5.chunk.js.LICENSE.txt": "/portfolio/static/js/2.ec5907d5.chunk.js.LICENSE.txt",
+    "static/css/main.f6ac9d24.chunk.css.map": "/portfolio/static/css/main.f6ac9d24.chunk.css.map",
+    "static/js/2.d7ccea13.chunk.js.LICENSE.txt": "/portfolio/static/js/2.d7ccea13.chunk.js.LICENSE.txt",
     "static/media/App.css": "/portfolio/static/media/background2.291e514b.png",
-    "static/media/doodle.svg": "/portfolio/static/media/doodle.eb94fe20.svg"
+    "static/media/doodle.svg": "/portfolio/static/media/doodle.eb94fe20.svg",
+    "static/media/hi.svg": "/portfolio/static/media/hi.0ffa63dd.svg",
+    "static/media/quest.svg": "/portfolio/static/media/quest.f5fb5692.svg",
+    "static/media/technica.svg": "/portfolio/static/media/technica.c4eb0fbe.svg",
+    "static/media/travel.svg": "/portfolio/static/media/travel.3f02d681.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.879528c7.js",
     "static/css/2.e4346227.chunk.css",
-    "static/js/2.ec5907d5.chunk.js",
-    "static/css/main.701855cb.chunk.css",
-    "static/js/main.d092a4ee.chunk.js"
+    "static/js/2.d7ccea13.chunk.js",
+    "static/css/main.f6ac9d24.chunk.css",
+    "static/js/main.63f7b7e0.chunk.js"
   ]
 }
